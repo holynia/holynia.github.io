@@ -6,7 +6,7 @@
   <link href="http://lby.github.io/atom.xml" rel="self"/>
   
   <link href="http://lby.github.io/"/>
-  <updated>2023-02-09T09:29:56.036Z</updated>
+  <updated>2023-02-09T09:52:10.253Z</updated>
   <id>http://lby.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>幻想家与夏</title>
-    <link href="http://lby.github.io/2023/02/09/%E5%B9%BB%E6%83%B3%E5%AE%B6%E4%B8%8E%E5%A4%8F/"/>
-    <id>http://lby.github.io/2023/02/09/%E5%B9%BB%E6%83%B3%E5%AE%B6%E4%B8%8E%E5%A4%8F/</id>
-    <published>2023-02-09T09:03:00.000Z</published>
-    <updated>2023-02-09T09:29:56.036Z</updated>
+    <link href="http://lby.github.io/2022/01/12/%E5%B9%BB%E6%83%B3%E5%AE%B6%E4%B8%8E%E5%A4%8F/"/>
+    <id>http://lby.github.io/2022/01/12/%E5%B9%BB%E6%83%B3%E5%AE%B6%E4%B8%8E%E5%A4%8F/</id>
+    <published>2022-01-12T09:03:00.000Z</published>
+    <updated>2023-02-09T09:52:10.253Z</updated>
     
     <content type="html"><![CDATA[<blockquote><p>“接下来要讲述的，是幻想家的故事”  </p></blockquote><p>幻想家在桌前，望着这句老套的开场白出神。  </p><p>已经许久未曾运笔，至于原因，幻想家心中有一个模糊的答案。但他却不愿承认——被生活的烦忙与琐碎打倒，撕扯，扔进漩涡中心，行动交由早已既定、当下先行的最高指令，意识则一点点被消磨殆尽——这是他矢口否认的，不愿看到的，却又被迫选择的，将一切激情与宝贵岁月心甘情愿交付的，孕育着他的宝石般的未来的——他甚至认为自己理当是个好蚌，可被撬开后，那颗珠的尺寸与光泽却又令他大失所望，夏的火种也随之熄灭了，他空空举着未燃的火把，带不给他一点光与热，呆伫于路上，任由他人的火光将内心刺痛——他的夏，似已结束。 </p><blockquote><p>“我的夏，竟已结束了……”  </p></blockquote><p>幻想家喃喃道，那种熟悉的空无感又趁虚而入，将他的内心一点点蚕食，曾经高举过头顶的双臂已垂弱无力，对生命与生活的热情正在被从他身体抽离。</p>]]></content>
     
@@ -32,58 +32,6 @@
     
     
     <category term="杂谈" scheme="http://lby.github.io/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>114514</title>
-    <link href="http://lby.github.io/2023/02/09/114514/"/>
-    <id>http://lby.github.io/2023/02/09/114514/</id>
-    <published>2023-02-09T08:49:00.000Z</published>
-    <updated>2023-02-09T08:52:44.419Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="title1"><a href="#title1" class="headerlink" title="title1"></a>title1</h1><h2 id="title2"><a href="#title2" class="headerlink" title="title2"></a>title2</h2><h3 id="title3"><a href="#title3" class="headerlink" title="title3"></a>title3</h3><blockquote><p>aaaaaaaaaaaaaaaaaaaaaaaaaa</p></blockquote><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&quot;hello&quot;</span>)</span><br></pre></td></tr></table></figure><p>123<em>12</em>3<strong>123</strong>123jhs<del>dbkskdf</del></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h1 id=&quot;title1&quot;&gt;&lt;a href=&quot;#title1&quot; class=&quot;headerlink&quot; title=&quot;title1&quot;&gt;&lt;/a&gt;title1&lt;/h1&gt;&lt;h2 id=&quot;title2&quot;&gt;&lt;a href=&quot;#title2&quot; class=&quot;headerlink&quot; titl</summary>
-      
-    
-    
-    
-    <category term="114" scheme="http://lby.github.io/categories/114/"/>
-    
-    <category term="514" scheme="http://lby.github.io/categories/114/514/"/>
-    
-    <category term="1919" scheme="http://lby.github.io/categories/114/514/1919/"/>
-    
-    <category term="810" scheme="http://lby.github.io/categories/114/514/1919/810/"/>
-    
-    
-    <category term="标签1" scheme="http://lby.github.io/tags/%E6%A0%87%E7%AD%BE1/"/>
-    
-    <category term="tag2" scheme="http://lby.github.io/tags/tag2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://lby.github.io/2023/01/30/hello-world/"/>
-    <id>http://lby.github.io/2023/01/30/hello-world/</id>
-    <published>2023-01-30T14:30:14.360Z</published>
-    <updated>2023-01-30T13:32:10.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
     
   </entry>
   
